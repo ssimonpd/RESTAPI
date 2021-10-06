@@ -1,0 +1,24 @@
+{
+  "Carros": [
+    {
+      "id": 1,
+      "nome": "Volkswagem Gol",
+      "cor": "Preta"
+    },
+    {
+      "nome": "Chevrolet Astra",
+      "cor": "Vermelho",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nome": "Fiat Fiorino",
+      "cor": "Branco"
+    },
+    {
+      "nome": "Volkswagen Jetta",
+      "cor": "Cinza",
+      "id": 4
+    }
+  ]
+}
